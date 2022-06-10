@@ -1,5 +1,9 @@
 # Releases
 
+## [0.1.6] - 2022-06-09
+- Style improvements
+- Adds prompt before video plays
+
 ## [0.1.5] - 2022-06-09
 - Removes playlist button
 
