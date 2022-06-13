@@ -20,14 +20,14 @@ def main():
         sys.exit(0)
     
     print("Running git add/commit.")
-    #subprocess.run("git add RELEASES.md", shell=True)
-    #subprocess.run(f"git commit -m {version}", shell=True)
+    subprocess.run("git add RELEASES.md", shell=True)
+    subprocess.run(f"git commit -m {version}", shell=True)
     
     print("Tagging release")
-    #subprocess.run(f"git tag -a {version} -m {version}", shell=True)
+    subprocess.run(f"git tag -a {version} -m {version}", shell=True)
     
     print("Pushing tags")
-    #subprocess.run("git push --follow-tags", shell=True)
+    subprocess.run("git push --follow-tags", shell=True)
 
 
 main()
