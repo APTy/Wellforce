@@ -1,7 +1,12 @@
 # Releases
 
+## [0.1.10] - 2022-06-14
+- Fixed an issue that prevented notifications from being sent after some amount of app usage.
+- Fixed an issue that prevented the "remind me" button from working if the user navigated away from the current page.
+- Added some basic anonymous activity logging to assist with debugging.
+
 ## [0.1.9] - 2022-06-13
-- Users now store basic info about themselves, like app version
+- Users now store basic info about themselves, like app version.
 
 ## [0.1.8] - 2022-06-13
 - Users should receive notifications regardless of which page they were on when they closed the app.
