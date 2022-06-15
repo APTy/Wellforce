@@ -1,5 +1,9 @@
 # Releases
 
+## [0.1.11] - 2022-06-14
+- Auto-update notifications should now properly restart the app.
+- Added a "Watch Tutorial" link on movement snacks.
+
 ## [0.1.10] - 2022-06-14
 - Fixed an issue that prevented notifications from being sent after some amount of app usage.
 - Fixed an issue that prevented the "remind me" button from working if the user navigated away from the current page.
