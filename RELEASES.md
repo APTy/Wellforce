@@ -1,5 +1,10 @@
 # Releases
 
+## [0.1.12] - 2022-06-22
+- Added a help request "?" button on home page.
+- Improved time-related settings, and fixed an issue that notified users at incorrect times.
+- The exercise window should now stay on top and close after some time in case the user forgets about it.
+
 ## [0.1.11] - 2022-06-14
 - Auto-update notifications should now properly restart the app.
 - Added a "Watch Tutorial" link on movement snacks.
