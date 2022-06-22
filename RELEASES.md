@@ -1,5 +1,8 @@
 # Releases
 
+## [0.1.13] - 2022-06-22
+- Fixed a crash that occurs during auto-updates.
+
 ## [0.1.12] - 2022-06-22
 - Added a help request "?" button on home page.
 - Improved time-related settings, and fixed an issue that notified users at incorrect times.
